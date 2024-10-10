@@ -38,44 +38,53 @@ jupyter notebook
 
 Once your environment is ready, you're all set to dive into the exercises.
 
-## Iteration 1: Exploring Pre-trained Text-to-Audio Models
+# Iteration 1: Exploring Pre-trained Text-to-Speech Models
 
-- **Model**: We will use **Tacotron 2**, a pre-trained model from Hugging Face for text-to-audio conversion.
-- **Task**: Convert the text "Artificial intelligence is transforming content creation" into audio using Tacotron 2.
+- **Model**: We will use **gTTS**, a pre-trained model for text-to-speech conversion.
+- **Task**: Convert the text "Artificial intelligence is transforming content creation" into audio using gTTS.
 - **Analysis**: Play the generated audio file and evaluate the quality of the text-to-speech conversion.
 
 ---
 
-## Iteration 2: Evaluating the Performance of Text-to-Audio Models
+# Iteration 2: Evaluating the Performance of Text-to-Speech Models
 
-- **Models to compare**: **Tacotron 2** and **WaveNet**, both available on Hugging Face.
+- **Models to compare**: **gTTS** and another **TTS model** (specify the model you'd like to use here).
 - **Task**: Convert the same text using both models and compare the performance and quality of the generated audio.
-- **Comparison**: Evaluate the differences in sound quality and inference time between Tacotron 2 and WaveNet.
+- **Comparison**: Evaluate the differences in sound quality and inference time between gTTS and the other TTS model.
 
 ---
 
-## Iteration 3: Applications of Text-to-Audio in Creative Industries
+# Iteration 3: Applications of Text-to-Speech in Creative Industries
 
 - **Use case**: Implement a project where the generated audio serves as narration for an article.
-- **Models used**: **Tacotron 2** and **WaveNet**.
+- **Models used**: **gTTS** and the other **TTS model**.
 - **Task**: Choose a text from a short article (e.g., a news paragraph) and generate the narration audio using both models.
 - **Practical discussions**: Evaluate how these models could be used in video narrations, audiobooks, or dubbing.
 
 ---
 
-## Iteration 4: Enhancing Text-to-Audio for Real-world Applications
+# Iteration 4: Enhancing Text-to-Speech for Real-world Applications
 
-- **Task**: Adjust the parameters of the Tacotron 2 model to modify the quality of the audio, such as speech speed or pitch.
-- **Model used**: **Tacotron 2**.
+- **Task**: Adjust the parameters of the gTTS model to modify the quality of the audio, such as speech speed or pitch.
+- **Model used**: **gTTS**.
 - **Analysis**: Discuss how adjusting these parameters can enhance user experience in applications like audiobooks or virtual assistants.
 
 ---
 
-## Iteration 5: Ethical Considerations and Future Trends
+# Iteration 5: Generating Background Music for Narration with MusicGen
 
-- **Task**: Discuss the ethical challenges related to voice replication and copyright issues when using text-to-audio models in creative applications.
+- **Model**: **MusicGen**, a model designed for music generation.
+- **Task**: Using MusicGen, generate a 5-second piece of instrumental background music that is soft and relaxing to accompany the narration of an article or presentation.
+- **Context**: The generated music should be suitable for use as background music in multimedia content projects, such as presentation videos, narrated articles, or podcasts. The goal is for the music to complement the narration harmoniously without distracting the listener, enhancing the overall professional quality.
+- **Analysis**: Discuss how the generated music can improve the user experience in multimedia projects and how it can be adjusted for different contexts (e.g., news narration, podcasts, promotional videos).
+
+---
+
+# Iteration 6: Ethical Considerations and Future Trends
+
+- **Task**: Discuss the ethical challenges related to voice replication and copyright issues when using text-to-speech models in creative applications.
 - **Practical application**: Research how companies like Google and Amazon are using these models in products like Google Assistant or Alexa.
-- **Presentation**: Each student will present a use case and its ethical considerations related to text-to-audio models.
+- **Presentation**: Each student will present a use case and its ethical considerations related to text-to-speech models.
 
 ---
 
