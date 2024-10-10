@@ -38,7 +38,7 @@ jupyter notebook
 
 Once your environment is ready, you're all set to dive into the exercises.
 
-# Iteration 1: Exploring Pre-trained Text-to-Speech Models
+## Iteration 1: Exploring Pre-trained Text-to-Speech Models
 
 - **Model**: We will use **gTTS**, a pre-trained model for text-to-speech conversion.
 - **Task**: Convert the text "Artificial intelligence is transforming content creation" into audio using gTTS.
@@ -46,7 +46,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-# Iteration 2: Evaluating the Performance of Text-to-Speech Models
+## Iteration 2: Evaluating the Performance of Text-to-Speech Models
 
 - **Models to compare**: **gTTS** and another **TTS model** (specify the model you'd like to use here).
 - **Task**: Convert the same text using both models and compare the performance and quality of the generated audio.
@@ -54,7 +54,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-# Iteration 3: Applications of Text-to-Speech in Creative Industries
+## Iteration 3: Applications of Text-to-Speech in Creative Industries
 
 - **Use case**: Implement a project where the generated audio serves as narration for an article.
 - **Models used**: **gTTS** and the other **TTS model**.
@@ -63,7 +63,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-# Iteration 4: Enhancing Text-to-Speech for Real-world Applications
+## Iteration 4: Enhancing Text-to-Speech for Real-world Applications
 
 - **Task**: Adjust the parameters of the gTTS model to modify the quality of the audio, such as speech speed or pitch.
 - **Model used**: **gTTS**.
@@ -71,7 +71,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-# Iteration 5: Generating Background Music for Narration with MusicGen
+## Iteration 5: Generating Background Music for Narration with MusicGen
 
 - **Model**: **MusicGen**, a model designed for music generation.
 - **Task**: Using MusicGen, generate a 5-second piece of instrumental background music that is soft and relaxing to accompany the narration of an article or presentation.
@@ -80,7 +80,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-# Iteration 6: Ethical Considerations and Future Trends
+## Iteration 6: Ethical Considerations and Future Trends
 
 - **Task**: Discuss the ethical challenges related to voice replication and copyright issues when using text-to-speech models in creative applications.
 - **Practical application**: Research how companies like Google and Amazon are using these models in products like Google Assistant or Alexa.
