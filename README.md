@@ -94,6 +94,10 @@ Once your environment is ready, you're all set to dive into the exercises.
 - **Task**: Fine-tune the model and evaluate the improvement in audio quality.
 - **Evaluation**: Discuss how fine-tuning a pre-trained model can optimize it for specific applications, such as narration in a particular language or with a specific tone.
 
+## Additional Resources
+
+- [TTS Documentation](https://pypi.org/project/TTS/)
+
 ## Submission
 
 Once you have completed the lab, push your Jupyter notebook to your forked GitHub repository and create a pull request.
