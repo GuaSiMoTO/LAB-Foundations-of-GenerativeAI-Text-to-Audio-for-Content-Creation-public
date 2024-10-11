@@ -112,11 +112,20 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-## Bonus: Fine-Tuning an Existing Model for Specific Tasks
+## Bonus Exercise
 
-- **Model used**: **Tacotron 2**, but fine-tuned with a custom dataset to improve pronunciation in a specific language or for specific proper names.
-- **Task**: Fine-tune the model and evaluate the improvement in audio quality.
-- **Evaluation**: Discuss how fine-tuning a pre-trained model can optimize it for specific applications, such as narration in a particular language or with a specific tone.
+In this exercise, you will fine-tune and combine text generation and speech synthesis models to create a virtual assistant. Follow these steps:
+
+1. **Choose a Text-to-Text Model:** Select a text generation model of your choice (e.g., GPT-2, T5, or any other transformer-based model). Use this model to generate a text response based on user input.
+   
+2. **Convert Text to Speech:** Use the `gTTS` library to convert predefined text into speech. Understand how this text-to-speech model operates and how to save and play the generated audio.
+
+3. **Integrate Both Tasks:** Combine the two tasks—first, generate a text response using GPT-2, and then convert this generated text into speech using `gTTS`.
+
+4. **Personalize Your Virtual Assistant:** Extend the functionality of the assistant by allowing users to input custom prompts and receive voice responses, simulating a real-world virtual assistant.
+
+---
+
 
 ## Additional Resources
 
