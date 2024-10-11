@@ -52,7 +52,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ## Iteration 2: Customizing gTTS for Professional Use
 
-**Task**: Modify gTTS parameters, such as speech speed (`slow`) and language (`lang`), to adjust the output for professional contexts.
+**Task**: Modify gTTS parameters, such as speech speed (`slow`) and language (`lang`), to adjust the output for professional contexts. Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
 
 **Example**: Experiment with different speech speeds to adapt the audio to situations like virtual assistants or video tutorials.
 
@@ -72,7 +72,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ## Iteration 4: Creating Multi-Language Content with gTTS
 
-**Task**: Use gTTS to convert text into different languages. Choose a paragraph in English and translate it into other languages such as Spanish, French, or German.
+**Task**: Use gTTS to convert text into different languages. Choose a paragraph in English and translate it into other languages such as Spanish, French, or German.  Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
 
 **Objective**: Explore gTTS’s ability to generate multilingual content, which is useful for global companies or multilingual support.
 
@@ -82,7 +82,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ## Iteration 5: Real-world Use Case – Virtual Assistant Development
 
-**Task**: Simulate the use of gTTS in a virtual assistant environment, such as creating automated responses for a chatbot that provides corporate information to employees or customers.
+**Task**: Simulate the use of gTTS in a virtual assistant environment, such as creating automated responses for a chatbot that provides corporate information to employees or customers.  Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
 
 **Scenario**: Generate a series of audio responses that a virtual assistant could use in frequently asked questions (FAQs).
 
