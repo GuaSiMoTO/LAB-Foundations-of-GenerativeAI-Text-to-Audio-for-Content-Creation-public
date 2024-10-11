@@ -72,7 +72,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ## Iteration 4: Creating Multi-Language Content with gTTS
 
-**Task**: Use gTTS to convert text into different languages. Choose a paragraph in English and translate it into other languages such as Spanish, French, or German.  Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
+**Task**: Use gTTS to convert text into different languages and accents. Choose a paragraph in English and translate it into other languages such as Spanish, French, or German. Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output. Additionally, allow users to select different accents (such as 'com', 'co.uk', 'com.au', etc.) to hear how the pronunciation changes based on the selected accent for the same language.
 
 **Objective**: Explore gTTS’s ability to generate multilingual content, which is useful for global companies or multilingual support.
 
@@ -82,7 +82,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ## Iteration 5: Real-world Use Case – Virtual Assistant Development
 
-**Task**: Simulate the use of gTTS in a virtual assistant environment, such as creating automated responses for a chatbot that provides corporate information to employees or customers.  Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
+**Task**: Simulate the use of gTTS in a virtual assistant environment, such as creating automated responses for a chatbot that provides corporate information to employees or customers. Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
 
 **Scenario**: Generate a series of audio responses that a virtual assistant could use in frequently asked questions (FAQs).
 
