@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotib
+transformers
+gtts
+tensorflow
+tf-keras
