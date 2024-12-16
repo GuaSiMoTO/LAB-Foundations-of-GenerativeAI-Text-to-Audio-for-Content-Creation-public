@@ -107,6 +107,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 **Task**: Analyze the ethical challenges related to the use of text-to-speech technology in professional environments, such as voice replication, privacy, and copyright issues.
 
 **Practical Application**: Research how companies like Google, Amazon, and Microsoft use TTS models in virtual assistants and consumer products.
+
 ---
 
 ## Bonus Exercise
