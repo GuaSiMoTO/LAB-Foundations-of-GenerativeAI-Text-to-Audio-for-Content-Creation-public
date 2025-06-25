@@ -1,7 +1,8 @@
 pandas
 seaborn
-matplotib
+matplotlib
 transformers
 gtts
 tensorflow
 tf-keras
+gtts
