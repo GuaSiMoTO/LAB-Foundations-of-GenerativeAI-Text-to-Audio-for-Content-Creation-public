@@ -50,27 +50,28 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-## Iteration 2: Customizing gTTS for Professional Use
+## Iteration 2: Professional Customization of gTTS in Enterprise Environments
 
-**Task**: Modify gTTS parameters, such as speech speed (`slow`) and language (`lang`), to adjust the output for professional contexts. Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
+**Task**: Create a function that allows users just by executing the .py file to play a text, and adapt the use of gTTS for professional contexts such as presentations, tutorials, podcasts or virtual assistants:
 
-**Example**: Experiment with different speech speeds to adapt the audio to situations like virtual assistants or video tutorials.
+- **lang** (language)
 
-**Analysis**: Discuss how adjusting these parameters can improve the user experience in applications like customer service or professional video narrations.
+- **slow** (speech rate)
+
+
+**Practical Application:** Use gTTS for one of these cases:
+
+- Narrate short tech news articles.
+
+- Create voiceovers for corporate videos or internal training material.
+
+- Automate virtual assistant messages and guided tutorials.
+
+**Analysis:** Make a written comparison of how voice parameter customization improves the user experience and professional perception of the content.
 
 ---
 
-## Iteration 3: Practical Application of gTTS in Business
-
-**Use Case**: Generate a voice narration for a brief article to be used in a corporate video or podcast.
-
-**Task**: Choose a paragraph from a relevant article (e.g., technology news) and generate an audio narration using gTTS.
-
-**Practical Discussion**: Evaluate how this process can be integrated into professional workflows, such as multimedia content creation, audiobooks, or accessibility tools for clients.
-
----
-
-## Iteration 4: Creating Multi-Language Content with gTTS
+## Iteration 3: Creating Multi-Language Content with gTTS
 
 **Task**: Use gTTS to convert text into different languages and accents. Choose a paragraph in English and translate it into other languages such as Spanish, French, or German. Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output. Additionally, allow users to select different accents (such as 'com', 'co.uk', 'com.au', etc.) to hear how the pronunciation changes based on the selected accent for the same language.
 
@@ -80,17 +81,8 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-## Iteration 5: Real-world Use Case – Virtual Assistant Development
 
-**Task**: Simulate the use of gTTS in a virtual assistant environment, such as creating automated responses for a chatbot that provides corporate information to employees or customers. Add an input field where users can type the text they want to convert into speech. This text will be passed to the gTTS model to generate audio output.
-
-**Scenario**: Generate a series of audio responses that a virtual assistant could use in frequently asked questions (FAQs).
-
-**Analysis**: Discuss how this implementation can improve efficiency in customer service and technical support tasks, reducing manual workload and enhancing accessibility.
-
----
-
-## Iteration 6: Generating Background Music for Narration with MusicGen
+## Iteration 4: Generating Background Music for Narration with MusicGen
 
 **Model**: **MusicGen**, a model designed for music generation.
 
@@ -102,7 +94,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 
 ---
 
-## Iteration 7: Ethical and Professional Considerations in TTS
+## Iteration 5: Ethical and Professional Considerations in TTS
 
 **Task**: Analyze the ethical challenges related to the use of text-to-speech technology in professional environments, such as voice replication, privacy, and copyright issues.
 
